@@ -26,8 +26,7 @@ title: demopage
         </td>
         <td>
             <video width="512" height="900" controls>
-                <source src="[/assets/demo_videos/1.mp4](https://chuangxin-research-1258344705.cos.ap-guangzhou.myqcloud.com/projectv/MuseV/data/result_video/Self-Portrait-with-Cropped-Hair.mp4)https://chuangxin-research-1258344705.cos.ap-guangzhou.myqcloud.com/projectv/MuseV/data/result_video/Self-Portrait-with-Cropped-Hair.mp4" type="video/mp4">
-                您的浏览器不支持视频标签。
+                <source src="https://chuangxin-research-1258344705.cos.ap-guangzhou.myqcloud.com/projectv/MuseV/data/result_video/Self-Portrait-with-Cropped-Hair.mp4">
             </video>
         </td>
     </tr>
